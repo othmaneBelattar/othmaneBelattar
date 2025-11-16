@@ -1,5 +1,5 @@
 # 💫 About Me:
-’m a Data Engineering graduate from "École Supérieure de Technologie El Kelaa des Sraghna" , currently pursuing a Bachelor’s degree in Data Science & Artificial Intelligence at "EST Fès".<br><br>I’m passionate about turning data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end projects — from data collection and processing to visualization, machine learning, and deployment.<br><br>📫 Contact<br><br>GitHub: You’re already here 😉<br><br>LinkedIn: Othmane BELATTAR 
+I’m a Data Engineering graduate from "École Supérieure de Technologie El Kelaa des Sraghna" , currently pursuing a Bachelor’s degree in Data Science & Artificial Intelligence at "EST Fès".<br><br>I’m passionate about turning data into actionable insights and building intelligent systems that solve real-world problems. I enjoy working on end-to-end projects — from data collection and processing to visualization, machine learning, and deployment.<br><br>📫 Contact<br><br>GitHub: You’re already here 😉<br><br>LinkedIn: Othmane BELATTAR 
 
 
 ## 🌐 Socials:
